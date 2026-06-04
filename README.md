@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:0ea5e9,100:7c3aed&text=Yash%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20SDE%20Aspirant&descSize=18&descAlignY=68&descColor=94a3b8" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=🚀+MERN+Stack+Developer;💡+DSA+%26+Problem+Solver;🏗️+System+Design+Enthusiast;☁️+Cloud+%26+Deployment+Explorer;🔥+Building+Production-Ready+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;💡+DSA+%26+Problem+Solver;🏗️+System+Design+Enthusiast;☁️+Cloud+%26+Deployment+Explorer;🔥+Building+Production-Ready+Apps" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 ```typescript
 const yash = {
   name:        "Yash Singh",
-  role:        "Full Stack Developer (MERN)",
+  role:        "Frontend Developer",
   education:   "B.Tech CSE — 7th Semester 🎓",
   location:    "Noida, India 🇮🇳",
   dreamRole:   "Software Development Engineer (SDE)",
@@ -31,7 +31,6 @@ const yash = {
     "🔧 Advanced Backend Architecture",
     "📊 Data Structures & Algorithms",
     "🏗️  System Design Fundamentals",
-    "☁️  Cloud (AWS / GCP)",
   ],
   funFact:     "I debug by talking to my rubber duck 🦆",
   motto:       "Ship fast. Learn faster. Iterate always.",
