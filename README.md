@@ -1,160 +1,122 @@
 <div align="center">
 
-# Hi 👋, I'm Yash Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:7c3aed&text=Yash%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | CSE Undergraduate
+# 👨‍💻 Full Stack MERN Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Problem+Solver+%7C+C%2B%2B+Programmer;Building+Projects+That+Make+An+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Projects+for+the+Real+World;Future+Software+Engineer" />
 
 <p>
 <a href="mailto:yashabhi.30@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yash-singh-267a65319/">
-<img src="https://img.shields.io/badge/LinkedIn-Yash_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YASH200530&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-🎓 Computer Science Engineering Student (7th Semester)
+```yaml
+Name: Yash Singh
+Role: Full Stack Developer
+Branch: Computer Science Engineering
+Semester: 7th Semester
+Location: India 🇮🇳
 
-💻 Passionate about Full Stack Development and Software Engineering
+Current Focus:
+  - MERN Stack Development
+  - Data Structures & Algorithms
+  - System Design
+  - Backend Development
 
-🌱 Currently learning Advanced React, Backend Architecture & System Design
-
-⚡ Building real-world projects using the MERN Stack
-
-🎯 Goal: Secure a Software Development Engineer (SDE) role and build scalable applications
-
-📧 Email: **yashabhi.30@gmail.com**
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,javascript"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YASH200530&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH200530&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH200530&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🌟 MERN Stack Application
-- Full-stack web application using React, Node.js, Express.js and MongoDB.
-- Authentication, APIs, Database Integration.
-
-### 🌟 Authentication System
-- JWT Authentication
-- Protected Routes
-- Role-Based Access
-
-### 🌟 Portfolio Website
-- Responsive Personal Portfolio
-- Project Showcase
-- Modern UI Design
-
-### 🌟 CRUD Management System
-- Complete Create, Read, Update and Delete Operations
-- REST API Integration
-
----
-
-# 📈 Coding Journey
-
-```text
-Frontend Development     ████████████████░░░░ 80%
-Backend Development      ██████████████░░░░░░ 75%
-MongoDB                  ██████████████░░░░░░ 75%
-React                    ████████████████░░░░ 80%
-C++                      ███████████████░░░░░ 78%
-Data Structures          ████████████░░░░░░░░ 60%
+Dream Role:
+  - Software Development Engineer (SDE)
 ```
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Master MERN Stack
-
-✅ Strengthen DSA & Problem Solving
-
-✅ Build 5+ Production-Level Projects
-
-✅ Open Source Contributions
-
-✅ Secure SDE Internship / Placement
-
----
-
-# 🤝 Connect With Me
+## ⚡ Tech Arsenal
 
 <p align="center">
-<a href="mailto:yashabhi.30@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
 
-<a href="https://www.linkedin.com/in/yash-singh-267a65319/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,html,css" />
+
 </p>
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YASH200530&theme=algolia&row=1&column=6&margin-w=15"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASH200530&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH200530&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH200530&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌟 What I'm Working On
+
+🔹 Building Full Stack MERN Applications
+
+🔹 Learning Advanced Backend Concepts
+
+🔹 Improving Problem Solving Skills
+
+🔹 Preparing for Software Engineering Roles
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Project 1
+Full Stack MERN Application
+
+### 🚀 Project 2
+Authentication & Authorization System
+
+### 🚀 Project 3
+Portfolio Website
+
+### 🚀 Project 4
+CRUD Management Dashboard
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASH200530&theme=tokyo-night"/>
+
+</p>
+
 <div align="center">
 
-### ⭐ "Code • Learn • Build • Repeat"
+### 💙 Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:7c3aed"/>
 
 </div>
